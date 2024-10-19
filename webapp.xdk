@@ -18,7 +18,7 @@
         "name": "Cordova",
         "version": "2.9.0",
         "data": {
-          "default": true
+          "default": false
         }
       },
       {
